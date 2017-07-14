@@ -4,7 +4,7 @@
 		module="play-scala-starter-example_2.12"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20170714142938"
+		publication="20170714155010"
 	>
 		<description>
 		play-scala-starter-example

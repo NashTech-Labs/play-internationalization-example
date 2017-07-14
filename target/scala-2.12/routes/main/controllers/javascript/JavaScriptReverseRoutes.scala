@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/teena/projects/play-internationalization-example/conf/routes
-// @DATE:Tue Jul 04 11:47:49 IST 2017
+// @SOURCE:/home/teena/play-internationalization-example/conf/routes
+// @DATE:Fri Jul 14 15:50:38 IST 2017
 
 import play.api.routing.JavaScriptReverseRoute
 

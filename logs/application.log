@@ -30,3 +30,5 @@
 2017-07-14 15:03:13,112 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in play-dev-mode-akka.actor.default-dispatcher-5 - Cookie failed message authentication check
 2017-07-14 15:03:13,171 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in play-dev-mode-akka.actor.default-dispatcher-7 - Cookie failed message authentication check
 2017-07-14 15:03:13,186 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in play-dev-mode-akka.actor.default-dispatcher-5 - Cookie failed message authentication check
+2017-07-14 15:51:04,636 [INFO] from application in pool-1-thread-1-ScalaTest-running-BrowserSpec - ApplicationTimer demo: Starting application at 2017-07-14T10:21:04.633Z.
+2017-07-14 15:51:09,266 [INFO] from application in pool-1-thread-1-ScalaTest-running-BrowserSpec - ApplicationTimer demo: Stopping application at 2017-07-14T10:21:09.266Z after 5s.

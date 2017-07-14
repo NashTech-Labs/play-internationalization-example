@@ -4,17 +4,17 @@ This is a basic application for implementing internationalization with Play Fram
 
 ## Instructions :-
 
-- The Github code for the project is at : playing-reactive-mongo
+- To run the Play Framework
+
+- The Github code for the project is at : [play-internationalization-example](https://github.com/knoldus/play-internationalization-example)
 
 - Clone the project into local system
-
-- To run the Play Framework
 
 - If you have never used Play before, you can refer from [here](http://www.playframework.com/download) 
 
 - Execute sbt run to execute the product
 
-- now application should be accessible at localhost:9000
+- Now application should be accessible at localhost:9000
   
 ## Reference :-
   

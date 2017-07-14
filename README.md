@@ -4,8 +4,6 @@ This is a basic application for implementing internationalization with Play Fram
 
 ## Instructions :-
 
-- To run the Play Framework
-
 - The Github code for the project is at : [play-internationalization-example](https://github.com/knoldus/play-internationalization-example)
 
 - Clone the project into local system
